@@ -1,7 +1,8 @@
 # DISA STIG ID: WN10-UR-000090
 
 ## Synopsis
-This PowerShell script ensures that the account lockout duration is set to 15 minutes.
+This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+
 
 ## Notes
 - **Author**: Dion Alexander
